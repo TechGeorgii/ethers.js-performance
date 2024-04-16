@@ -1,0 +1,26 @@
+[
+  {
+    "jsonrpc": "2.0",
+    "method": "eth_call",
+    "params": [
+      {
+        "to": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "data": "0x70a082310000000000000000000000002066fc1cac710806c8ffcc8539ec69d6ce2ee489"
+      },
+      "latest"
+    ],
+    "id": 1
+  },
+  {
+    "jsonrpc": "2.0",
+    "method": "eth_call",
+    "params": [
+      {
+        "to": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "data": "0x70a082310000000000000000000000005f4d4b6b59a88fd83aa754bdd12afc73f53830ec"
+      },
+      "latest"
+    ],
+    "id": 1
+  }
+]
